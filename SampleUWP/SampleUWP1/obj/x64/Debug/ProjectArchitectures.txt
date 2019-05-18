@@ -1,1 +1,0 @@
-C:\Users\vepaduch\Desktop\Repos\DeviceClientIssuesRepro\SampleUWP\SampleUWP1\SampleUWP1.csproj;x64
